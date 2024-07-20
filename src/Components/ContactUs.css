@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppons',sans-serif;
+}
+.contact-us{
+width: 100%;
+max-height: 500px;
+background-image: url('contactUS.jpg');
+background-size: cover;
+background-position: 90% 100%;
+background-repeat: no-repeat;  
+overflow-wrap: break-word;
+}
+
+
+.contact-us h1{
+    /* color: #ffff; */
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 5vw;
+    padding: 10% 0px;
+}
+
+.content-part{
+    width: 100%;
+    height: auto;
+    padding: 2%;
+    text-align: center;
+    overflow-wrap: break-word;
+}
+
+.contact-form {
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    background-image: url('formImage.jpg');
+    background-size: cover;
+    /* font-size: larger; */
+
+}
+
+.contact-form form{
+     box-shadow: 1px 1px 2px 2px rgb(173, 173, 173),-1px -1px 2px 2px rgb(173, 173, 173);
+     backdrop-filter: blur;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 65%;
+    margin:auto;
+    border-radius: 10px;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    overflow-wrap: break-word;
+}
+.contact-form form input{
+    margin: 15px;
+    font-size: 1.4rem;
+    border: none;
+    outline: none;
+    /* border-radius: 10px; */
+    width: 60%;
+    max-height: 30px;
+    border-bottom: 2px solid black;
+    background-color: transparent;
+    overflow-wrap: break-word;
+}
+
+.contact-form form textarea{
+    width: 60%;
+    /* max-height: 100px; */
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 2%;
+    border: 2px solid rgb(242, 241, 241);
+    overflow-wrap: break-word;
+}
+.contact-form form button{
+    border: none; 
+    padding: 1rem;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    margin-bottom: 20px;
+    background-color: #4660A9;
+    color: white;
+    padding-left: 3%;
+    padding-right: 3%;
+    transition: all ease-in-out 0.8s;
+    
+}
+.contact-form form button:hover{
+    background-color: orange;
+    border: 1px solid black;
+    font-weight: bold; 
+    scale: 1.2;
+    text-transform: uppercase;
+}

@@ -1,0 +1,33 @@
+[
+    
+      {
+        "name": "Hospital 5",
+        "address": "789 Elm St, City Mohalin 2",
+        "doctorPhone": "555-555-999",
+        "location": { "lat": 30.900975, "lng": 75.8672758 }
+      },
+      {
+        "name": "Hospital Guru",
+        "address": "789 Elm, City Mohali , Punjab",
+        "doctorPhone": "8278750889",
+        "doctorName": "Dr. Aman",
+        "email":"amandeep@gmai.com",
+        "location": { "lat": 30.7280021,  "lng": 76.6975746}
+      },
+      {
+        "name": "Hospital Janta",
+        "address": "789 Elm St, City Mohalin 2",
+        "doctorPhone": "8580403506",
+        "doctorName": "Dr. RamanDeep ",
+        "email":"raman123@gmail.com",
+        "location": { "lat": 30.7280021,  "lng": 76.7975746}
+      }
+         
+  ]
+
+
+
+
+
+  
+  

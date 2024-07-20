@@ -1,0 +1,45 @@
+/* 
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+/* backgroundImage : `url(${BackImg})`;
+document.body.style.backgroundSize = 'cover';
+document.body.style.backgroundAttachment = 'fixed';
+document.body.style.backgroundPosition = 'center';
+document.body.style.backgroundRepeat = 'no-repeat';
+document.body.style.opacity='2'; */ 
+/* body{
+  background-image: url('Blur_CowDog.png');
+  background-size: 100% 530px; */
+  /* background-attachment: fixed; */
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+ 
+/* background-color: rgba(255, 255, 255, 0.3); */
+  
+ 
+
+/* } */
